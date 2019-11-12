@@ -1,4 +1,4 @@
-# Interviews
+# Long Interviews
 Longer podcasts or videos with interesting people
 
 * **Current**:
