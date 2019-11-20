@@ -61,6 +61,7 @@ Longer podcasts or videos with interesting people
 * [Gabbard 'skeptical' that Assad used chemical weapons on his own people (video)](https://twitter.com/i/status/850477149895131136)    
 
 ## Podcasts
+* [**Modern Ruhles with Stephanie Ruhle**](https://www.iheart.com/podcast/1119-modern-ruhles-with-stepha-48618421/)    
 * [**On One with Angela Rye**](https://soundcloud.com/ononewithangelarye)    
 * [**The way with Anoa**](https://twitter.com/TheWayWithAnoa)    
 * [**The Breakfast Club**](https://www.youtube.com/channel/UChi08h4577eFsNXGd3sxYhw)    
