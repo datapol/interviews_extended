@@ -15,7 +15,7 @@ Longer podcasts or videos with interesting people
 ## Current People
 
 ### Warren
-* [2019/11/21 The the Washer Woman's Strike in 1881. Black women who weren't fairly treated fought back and won](https://www.pscp.tv/w/1lDGLoArAOMKm)
+* [2019/11/21 The the Washer Woman's Strike in 1881. Black women who weren't fairly treated fought back and won](https://ewar.ren/atlanta-speech)    
 * [2019/11/08 On One with Angela Rye](https://soundcloud.com/ononewithangelarye)    
 * [2019/11/05 "Voting WHile Black"'s Rashad Robinson inverview](https://votingwhileblack.com/podcast/interview-with-presidential-candidate-senator-elizabeth-warren/)    
 * [2019/11/09: Environmental Justice Presidential Forum](https://www.youtube.com/watch?v=KcQ-Zl5hK68)    
