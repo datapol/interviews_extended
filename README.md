@@ -15,6 +15,7 @@ Longer podcasts or videos with interesting people
 ## Current People
 
 ### Warren
+* [2019/11/21 The the Washer Woman's Strike in 1881. Black women who weren't fairly treated fought back and won](https://www.pscp.tv/w/1lDGLoArAOMKm)
 * [2019/11/08 On One with Angela Rye](https://soundcloud.com/ononewithangelarye)    
 * [2019/11/05 "Voting WHile Black"'s Rashad Robinson inverview](https://votingwhileblack.com/podcast/interview-with-presidential-candidate-senator-elizabeth-warren/)    
 * [2019/11/09: Environmental Justice Presidential Forum](https://www.youtube.com/watch?v=KcQ-Zl5hK68)    
@@ -50,6 +51,13 @@ Longer podcasts or videos with interesting people
 * [Crime after crime](https://twitter.com/nowthisnews/status/1183903060931645440)    
 
 ### Mark Zuckerberg
+* [2019-11-14 Facebook's "Gold Circle" sponsership - the highest level - of The Federalist Society’s gala dinner honoring Supreme Court Justice Brett
+  * [Joel Kaplan, Facebook's VP of Global Affairs, sat behind Kavanaugh during K's confirmation testimony](https://twitter.com/blkkaboom/status/1195007290379816962/)    
+  * 2019/11/17 Ad campaign condemns Facebook's sponsorship of Federalist Society dinner honoring Brett Kavanaugh](https://www.salon.com/2019/11/17/ad-campaign-condemns-facebooks-sponsorship-of-federalist-society-dinner-honoring-brett-kavanaugh_partner/)    
+  Kavanaugh](https://www.commondreams.org/newswire/2019/11/14/demand-justice-announces-ads-shaming-facebook-sponsoring-federalist-society)    
+* [2019-11 Zuck met secretly with Trump](https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986)
+* [2019-10-19 Zuck met with Trump](https://www.nbcnews.com/politics/donald-trump/trump-mark-zuckerberg-hold-surprise-white-house-meeting-n1056721)   
+*
 * [Facebook is Evil](https://twitter.com/arapaho415/status/1191014924912218113)    
 * [Zuckerberg, Facebook, and Buttigieg](https://twitter.com/arapaho415/status/1191506457029566464)    
 * [2019/10/28](https://www.statnews.com/2019/10/28/facebook-vows-strict-privacy-safeguards-preventive-health-tool/)
