@@ -1,16 +1,27 @@
 # Long Interviews
+
 Longer podcasts or videos with interesting people
 
 * **Current**:
+  * [**Impeachment Hearings**](#impeachment-hearings)
   * [**Elizabeth Warren**](#warren)    
   * [**Facebook**](#mark-zuckerberg)
-  * [**Tulsi Gabbard**](#tulsi-gabbard)
 
 * [**Additional**](doc/README.md)
 * [**The Violence Against Women Act of 2019**](https://www.govtrack.us/congress/bills/116/hr1585)
     * Is headed to the Senate and has a 3% chance of being enacted
     * [**Strangulation**](/doc/misogyny_logic/README.md) is not a crime in many states.
     * Call your Senators. Ask them to approve VAWA
+
+## Impeachment Hearings
+* [2019/11/15 Former Ukraine Ambassador Marie Yovanovitch](https://www.c-span.org/video/?466135-1/impeachment-hearing-ukraine-ambassador-marie-yovanovitch)
+  * [2019/11/15 Commentary](https://www.c-span.org/video/?466457-1/lawmakers-react-ambassador-yovanovitch-testimony)
+* [2019/11/19 Ambassador Kurt Volker and National Security Aide Tim Morrison](https://www.c-span.org/video/?466377-1/impeachment-hearing-kurt-volker-tim-morrison)
+* [2019/11/19 Lieutenant Colonel Vindman and Jennifer Williams](https://www.c-span.org/video/?466376-1/impeachment-hearing-lt-col-vindman-jennifer-williams)
+* [2019/11/20 Laura Cooper and David Hale](https://www.c-span.org/video/?466379-1/impeachment-inquiry-hearing-laura-cooper-david-hale)
+* [2019/11/20 E. U. Ambassador Gordon Sondland](https://www.c-span.org/video/?466378-1/impeachment-inquiry-hearing-eu-ambassador-gordon-sondland)
+  * [2019/11/20 House Intel Chair Schiff on Ambassador Sondland's Testimony](https://www.c-span.org/video/?466615-103/house-intel-chair-schiff-ambassador-sondlands-testimony)    
+* [2019/11/21 Fiona Hill and David Holmes](https://www.c-span.org/video/?466380-1/impeachment-inquiry-hearing-fiona-hill-david-holmes)
 
 ## Current People
 
@@ -51,15 +62,25 @@ Longer podcasts or videos with interesting people
 * [Crime after crime](https://twitter.com/nowthisnews/status/1183903060931645440)    
 
 ### Mark Zuckerberg
-* [2019-11-14 Facebook's "Gold Circle" sponsership - the highest level - of The Federalist Society’s gala dinner honoring Supreme Court Justice Brett
+* [2019/11/14 Facebook's "Gold Circle" sponsership - the highest level - of The Federalist Society’s gala dinner honoring Supreme Court Justice Brett
   * [Joel Kaplan, Facebook's VP of Global Affairs, sat behind Kavanaugh during K's confirmation testimony](https://twitter.com/blkkaboom/status/1195007290379816962/)    
   * 2019/11/17 Ad campaign condemns Facebook's sponsorship of Federalist Society dinner honoring Brett Kavanaugh](https://www.salon.com/2019/11/17/ad-campaign-condemns-facebooks-sponsorship-of-federalist-society-dinner-honoring-brett-kavanaugh_partner/)    
   Kavanaugh](https://www.commondreams.org/newswire/2019/11/14/demand-justice-announces-ads-shaming-facebook-sponsoring-federalist-society)    
-* [2019-11 Zuck met secretly with Trump](https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986)
-* [2019-10-19 Zuck met with Trump](https://www.nbcnews.com/politics/donald-trump/trump-mark-zuckerberg-hold-surprise-white-house-meeting-n1056721)   
-*
+* [2019/11/Zuck met secretly with Trump](https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986)
+* [Testimony Before House Financial Services Committee](https://www.c-span.org/video/?465293-1/facebook-ceo-testimony-house-financial-services-committee)    
+    * 19:00 Zuck: 'Libra is going to be backed mostly by dollars'    
+* [2019/10/19 Zuck met with Trump](https://www.nbcnews.com/politics/donald-trump/trump-mark-zuckerberg-hold-surprise-white-house-meeting-n1056721)   
+* [2018/10/08 Zuckerberg: The Recode interview](https://www.vox.com/2018/7/18/17575156/mark-zuckerberg-interview-facebook-recode-kara-swisher)    
+* [2018/04/10 Facebook CEO Mark Zuckerberg Hearing on Data Privacy and Protection](https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-data-protection)    
+* [2010/06/10 D8: Facebook CEO Mark Zuckerberg Full-Length Video](https://www.wsj.com/video/d8-facebook-ceo-mark-zuckerberg-full-length-video/29CC1557-56A9-4484-90B4-539E282F6F9A.html)    
 * [Facebook is Evil](https://twitter.com/arapaho415/status/1191014924912218113)    
-* [Zuckerberg, Facebook, and Buttigieg](https://twitter.com/arapaho415/status/1191506457029566464)    
+
+#### News Articles
+* [2019/11/12 Facebook group in Maine advocates "Killing as many Muslims as possible"](https://www.mainernews.com/private-facebook-group-fans-flames-of-racist-hatred-in-maine/)    
+
+* **ZuckerBerg and Buttigieg**
+  * [Zuckerberg, Facebook, and Buttigieg](https://twitter.com/arapaho415/status/1191506457029566464)    
+  * [Facebook MVP, James Barnes helped Trump Win - But now is helping Buttigieg](https://www.wsj.com/articles/how-facebooks-embed-in-the-trump-campaign-helped-the-president-win-11574521712)
 * [2019/10/28](https://www.statnews.com/2019/10/28/facebook-vows-strict-privacy-safeguards-preventive-health-tool/)
 * Called "The Prince" by his family when he was growing up. He was the only son with 3 sisters.   
 * [**Building the Facebook Empire**](https://www.youtube.com/watch?v=5WiDIhIkPoM)    
@@ -117,15 +138,3 @@ It was not the foreign aggressor we must fear.
 It was corrosion from within: the rot, the viciousness, the lassitude, the ignorance.
 
 
-#### Tulsi Gabbard
-
-##### Long-time supporter of dictators
-* Assad
-* Sisi
-* Modi
-
-##### Backed a number of horrible policies
-* [Making it harder for Muslim refugees to enter the U.S.](https://www.mpac.org/blog/policy-analysis/presidential-candidate-spotlight-tulsi-gabbard.php)    
-* [tolerating Russian war crimes in Syria](https://www.washingtonpost.com/opinions/global-opinions/tulsi-gabbards-syria-record-shows-why-she-cant-be-president/2019/08/01/f804c790-b497-11e9-8949-5f36ff92706e_story.html)    
-* [voting against the Magnitsky Act](https://www.dailykos.com/stories/2019/10/21/1894034/-The-Strange-Alliances-of-Tulsi-Gabbard-Bill-Browder-and-others-highlight-odd-affinities)    
-* [vouching for the Bill Barr fake version of the Mueller report.](https://twitter.com/tulsigabbard/status/1111386620698083329?lang=en)    
