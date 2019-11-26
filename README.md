@@ -14,14 +14,14 @@ Longer podcasts or videos with interesting people
     * Call your Senators. Ask them to approve VAWA
 
 ## Impeachment Hearings
-* [2019/11/15 Former Ukraine Ambassador Marie Yovanovitch](https://www.c-span.org/video/?466135-1/impeachment-hearing-ukraine-ambassador-marie-yovanovitch)
-  * [2019/11/15 Commentary](https://www.c-span.org/video/?466457-1/lawmakers-react-ambassador-yovanovitch-testimony)
-* [2019/11/19 Ambassador Kurt Volker and National Security Aide Tim Morrison](https://www.c-span.org/video/?466377-1/impeachment-hearing-kurt-volker-tim-morrison)
-* [2019/11/19 Lieutenant Colonel Vindman and Jennifer Williams](https://www.c-span.org/video/?466376-1/impeachment-hearing-lt-col-vindman-jennifer-williams)
-* [2019/11/20 Laura Cooper and David Hale](https://www.c-span.org/video/?466379-1/impeachment-inquiry-hearing-laura-cooper-david-hale)
-* [2019/11/20 E. U. Ambassador Gordon Sondland](https://www.c-span.org/video/?466378-1/impeachment-inquiry-hearing-eu-ambassador-gordon-sondland)
-  * [2019/11/20 House Intel Chair Schiff on Ambassador Sondland's Testimony](https://www.c-span.org/video/?466615-103/house-intel-chair-schiff-ambassador-sondlands-testimony)    
-* [2019/11/21 Fiona Hill and David Holmes](https://www.c-span.org/video/?466380-1/impeachment-inquiry-hearing-fiona-hill-david-holmes)
+* [**2019/11/15 Former Ukraine Ambassador Marie Yovanovitch**](https://www.c-span.org/video/?466135-1/impeachment-hearing-ukraine-ambassador-marie-yovanovitch)
+  * [**2019/11/15 Commentary**](https://www.c-span.org/video/?466457-1/lawmakers-react-ambassador-yovanovitch-testimony)
+* [**2019/11/19 Ambassador Kurt Volker and National Security Aide Tim Morrison**](https://www.c-span.org/video/?466377-1/impeachment-hearing-kurt-volker-tim-morrison)
+* [**2019/11/19 Lieutenant Colonel Vindman and Jennifer Williams**](https://www.c-span.org/video/?466376-1/impeachment-hearing-lt-col-vindman-jennifer-williams)
+* [**2019/11/20 Laura Cooper and David Hale**](https://www.c-span.org/video/?466379-1/impeachment-inquiry-hearing-laura-cooper-david-hale)
+* [**2019/11/20 E. U. Ambassador Gordon Sondland**](https://www.c-span.org/video/?466378-1/impeachment-inquiry-hearing-eu-ambassador-gordon-sondland)
+  * [**2019/11/20 House Intel Chair Schiff on Ambassador Sondland's Testimony**](https://www.c-span.org/video/?466615-103/house-intel-chair-schiff-ambassador-sondlands-testimony)    
+* [**2019/11/21 Fiona Hill and David Holmes**](https://www.c-span.org/video/?466380-1/impeachment-inquiry-hearing-fiona-hill-david-holmes)
 
 ## Current People
 
