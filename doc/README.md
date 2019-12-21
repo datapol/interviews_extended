@@ -106,6 +106,7 @@ The women's march on January 17, 2017 was the the biggest one day political prot
 * [The Chasing Grace Project is a documentary series about women in tech](https://www.chasinggracefilm.com/)    
 
 ## Debates
+* [2019/2020 Democratic Debate Schedule and full videos](https://www.uspresidentialelectionnews.com/2020-debate-schedule/2020-democratic-debate-schedule/)    
 * June 27, 2019 [Democratic Presidential Debate - night 1](https://www.nbcnews.com/video/full-video-democratic-presidential-debate-night-1-62758981769)
 
 

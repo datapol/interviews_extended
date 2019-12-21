@@ -66,10 +66,11 @@ Longer podcasts or videos with interesting people
   * [Joel Kaplan, Facebook's VP of Global Affairs, sat behind Kavanaugh during K's confirmation testimony](https://twitter.com/blkkaboom/status/1195007290379816962/)    
   * 2019/11/17 Ad campaign condemns Facebook's sponsorship of Federalist Society dinner honoring Brett Kavanaugh](https://www.salon.com/2019/11/17/ad-campaign-condemns-facebooks-sponsorship-of-federalist-society-dinner-honoring-brett-kavanaugh_partner/)    
   Kavanaugh](https://www.commondreams.org/newswire/2019/11/14/demand-justice-announces-ads-shaming-facebook-sponsoring-federalist-society)    
-* [2019/11/Zuck met secretly with Trump](https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986)
-* [Testimony Before House Financial Services Committee](https://www.c-span.org/video/?465293-1/facebook-ceo-testimony-house-financial-services-committee)    
+* [2019/11/?? Zuck met secretly with Trump](https://www.nbcnews.com/tech/tech-news/trump-hosted-zuckerberg-undisclosed-dinner-white-house-october-n1087986)
+* [2019/10/23 Testimony Before House Financial Services Committee](https://www.c-span.org/video/?465293-1/facebook-ceo-testimony-house-financial-services-committee)    
     * 19:00 Zuck: 'Libra is going to be backed mostly by dollars'    
 * [2019/10/19 Zuck met with Trump](https://www.nbcnews.com/politics/donald-trump/trump-mark-zuckerberg-hold-surprise-white-house-meeting-n1056721)   
+* [2019/10/18 Zuckerberg’s speech draws ire from 2020 candidates, civil rights advocates](https://www.washingtonpost.com/technology/2019/10/18/zuckerbergs-speech-draws-ire-candidates-civil-rights-advocates/)
 * [2018/10/08 Zuckerberg: The Recode interview](https://www.vox.com/2018/7/18/17575156/mark-zuckerberg-interview-facebook-recode-kara-swisher)    
 * [2018/04/10 Facebook CEO Mark Zuckerberg Hearing on Data Privacy and Protection](https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-data-protection)    
 * [2010/06/10 D8: Facebook CEO Mark Zuckerberg Full-Length Video](https://www.wsj.com/video/d8-facebook-ceo-mark-zuckerberg-full-length-video/29CC1557-56A9-4484-90B4-539E282F6F9A.html)    
