@@ -26,6 +26,8 @@ Longer podcasts or videos with interesting people
 ## Current People
 
 ### Warren
+* [2019/12/31 Warren's New Year's Eve Speech in Boston](https://twitter.com/ewarren/status/1212041181032415232)    
+* [2019/12/12 Warren's Economic Speech in NH](https://www.c-span.org/video/?467285-1/senator-elizabeth-warren-campaigns-hampshire)    
 * [2019/11/21 The the Washer Woman's Strike in 1881. Black women who weren't fairly treated fought back and won](https://ewar.ren/atlanta-speech)    
 * [2019/11/08 On One with Angela Rye](https://soundcloud.com/ononewithangelarye)    
 * [2019/11/05 "Voting WHile Black"'s Rashad Robinson inverview](https://votingwhileblack.com/podcast/interview-with-presidential-candidate-senator-elizabeth-warren/)    
@@ -98,6 +100,10 @@ Longer podcasts or videos with interesting people
   * [2019/10/30 Creepy statement from Sandberg on "Fffree" expression](https://twitter.com/carolecadwalla/status/1189982077837565952)
 
 ### [Peter Thiel](https://thebaffler.com/latest/mouthbreathing-machiavellis)    
+  * [Peter Theil fears Elizabeth Warren](https://www.youtube.com/watch?v=eOygdStwCRI&feature=emb_logo)    
+  * [2013/01 Obama Caused Technological Stagnation](https://youtu.be/E6ODS6_iz4Q)
+  * [2015/09/25 Peter Thiel's Top 10 Rules for Success](https://www.youtube.com/watch?time_continue=179&v=NjpEZBTCML8&feature=emb_logo)    
+  * [2014/30/09 Successful Business are Based on Secrets | Wired](https://www.youtube.com/watch?v=yODORwGmHqo)    
 
 #### Peter Thiel's Investments in People:
   * [**Senator Ted Cruz**](https://www.texastribune.org/2012/07/03/ted-cruzs-gay-billionaire-donor-draws-criticism/)    
@@ -131,6 +137,9 @@ Longer podcasts or videos with interesting people
 
 #### Other Peter Thiel:
 * [Thiel's 2009 essay](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertari)    
+* [2019/07/19 Peter Thiel on "The Portal", Episode #001: An Era of Stagnation & Universal Institutional Failure](https://www.youtube.com/watch?v=nM9f0W2KD5s)
+* [2019/05/08 Some think Peter Thiel should be King of the World](https://autisticmercury.com/2019/05/08/peter-thiel-against-consensus-reality/)    
+* [2013/10/14 Peter Thiel: You Are Not a Lottery Ticket | Interactive 2013 | SXSW](https://www.youtube.com/watch?v=iZM_JmZdqCw)
 
 Yet working and living conditions for much of the American population were abysmal.
 The country was enjoying an economic boom, but a storm was on the horizon.
