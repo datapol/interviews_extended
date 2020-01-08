@@ -26,8 +26,24 @@ Longer podcasts or videos with interesting people
 ## Current People
 
 ### Warren
-* [2019/12/31 Warren's New Year's Eve Speech in Boston](https://twitter.com/ewarren/status/1212041181032415232)    
+* [2019/12/31 Warren's New Year's Eve Speech in Boston](https://www.c-span.org/video/?467635-1/elizabeth-warren-years-eve-speech-boston)        
 * [2019/12/12 Warren's Economic Speech in NH](https://www.c-span.org/video/?467285-1/senator-elizabeth-warren-campaigns-hampshire)    
+  * Wages barely budged
+  * Fixed costs sky-rocketed: housing, healthcare, childcare, and education
+  * Economic growth less than 2% per year
+  * New business creation
+  * In 2017, the black home-ownership is as low as it was when housing discrimiation was legal
+  * Net worth up for most is up 7%. Net worth for the top 1% has risen by 187%
+  * 1.6 trillion dollars of student debt
+  * Three problems in a rigged ecomony:
+    * Corporations focus soley on invetors rather than investors, workers, customers, and community
+      * Less than 50%, Now 93% goes to short term payoffs to investors
+      * Wealthiest 10% own 80
+      * CEOs made 43x the average worker, now 287x the average worker
+    * Competition 
+
+* [2020/01/07 Brooklyn: Castro endorses Warren](https://www.c-span.org/video/?467901-1/julin-castro-endorses-senator-elizabeth-warren&live&vod)    
+* [2019/11/23 Town Hall in Manchester, NH](https://www.c-span.org/video/?466608-1/senator-elizabeth-warren-campaigns-manchester-hampshire)    
 * [2019/11/21 The the Washer Woman's Strike in 1881. Black women who weren't fairly treated fought back and won](https://ewar.ren/atlanta-speech)    
 * [2019/11/08 On One with Angela Rye](https://soundcloud.com/ononewithangelarye)    
 * [2019/11/05 "Voting WHile Black"'s Rashad Robinson inverview](https://votingwhileblack.com/podcast/interview-with-presidential-candidate-senator-elizabeth-warren/)    
