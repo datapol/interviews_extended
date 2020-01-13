@@ -72,7 +72,13 @@ Longer podcasts or videos with interesting people
 * [2004 Hillary Clinton and Bankruptcy Law](https://www.youtube.com/watch?time_continue=65&v=4Gnu0XNPgHk)    
 
 
-#### Tweets
+#### Tweets/YouTube
+* [Facebook has been collecting data on you, even if you do not have an accout](https://twitter.com/brooklynmarie/status/1168911289126674433)
+  * [Facebook hides diversity data](https://www.youtube.com/watch?v=MSSyRQpDZLA&feature=youtu.be)    
+    * 6:30 Facebook bury and hides diversity and integrity data
+    * 7:00 Facebook employee committed suicide on FB campus during work hours    
+  * [What it is like work at Facebook](https://www.youtube.com/watch?v=EZBeqFBuDJs)
+    * 6:16 "Wouldn't it be funny if we had her build the program and then terminate her?", said by FB attorney in front of FB HR employee who was building the program
 * [How would Warren respond to someone who says marriage is between one man and one woman?](https://twitter.com/ewarren/status/1182482749661368320)    
 * [I don't understand why anybody goes to all the trouble to run for President of the United States just to talk about what we can't do and what we shouldn't fight for](https://twitter.com/ProudResister/status/1182506475073064960)    
 * ["We don't have the right to be Silent. Because if we don't [push], things will only get worse. = Elijah Cummings](https://twitter.com/SenWarren/status/1184850972281057284)
