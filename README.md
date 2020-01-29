@@ -99,6 +99,8 @@ Longer podcasts or videos with interesting people
 * [2018/04/10 Facebook CEO Mark Zuckerberg Hearing on Data Privacy and Protection](https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-data-protection)    
 * [2010/06/10 D8: Facebook CEO Mark Zuckerberg Full-Length Video](https://www.wsj.com/video/d8-facebook-ceo-mark-zuckerberg-full-length-video/29CC1557-56A9-4484-90B4-539E282F6F9A.html)    
 * [Facebook is Evil](https://twitter.com/arapaho415/status/1191014924912218113)    
+* [Andrew Bosworth](https://en.wikipedia.org/wiki/Andrew_Bosworth)    
+* [CES 2020/Ivanka/Bosworth](https://megaphone.link/VMP7106826463)    
 
 #### News Articles
 * [2019/11/12 Facebook group in Maine advocates "Killing as many Muslims as possible"](https://www.mainernews.com/private-facebook-group-fans-flames-of-racist-hatred-in-maine/)    
@@ -122,6 +124,7 @@ Longer podcasts or videos with interesting people
   * [2019/10/30 Creepy statement from Sandberg on "Fffree" expression](https://twitter.com/carolecadwalla/status/1189982077837565952)
 
 ### [Peter Thiel](https://thebaffler.com/latest/mouthbreathing-machiavellis)    
+  * [2019/09/23 Peter Theil on "The Straussian Moment"](https://www.bing.com/videos/search?q=peter+theil&view=detail&mid=F5B4BF12138BAAD46F39F5B4BF12138BAAD46F39&FORM=VIRE)    
   * [Peter Theil fears Elizabeth Warren](https://www.youtube.com/watch?v=eOygdStwCRI&feature=emb_logo)    
   * [2013/01 Obama Caused Technological Stagnation](https://youtu.be/E6ODS6_iz4Q)
   * [2015/09/25 Peter Thiel's Top 10 Rules for Success](https://www.youtube.com/watch?time_continue=179&v=NjpEZBTCML8&feature=emb_logo)    
@@ -156,6 +159,7 @@ Longer podcasts or videos with interesting people
   * ** Occulus Rift**, bought by Facebook
   * John Burnham, "benevolent dictator for life" working at Tlon
   * [**Tlon**](https://angel.co/company/tlon)    
+  * **Clarion Capital Partners, LLC**
 
 #### Other Peter Thiel:
 * [Thiel's 2009 essay](https://www.cato-unbound.org/2009/04/13/peter-thiel/education-libertari)    
