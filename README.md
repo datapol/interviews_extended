@@ -86,6 +86,8 @@ Longer podcasts or videos with interesting people
 * [Crime after crime](https://twitter.com/nowthisnews/status/1183903060931645440)    
 
 ### Mark Zuckerberg
+* [2013/05/31 Randi Zuckerberg BookTV, "Dot complicated and Dot"](https://www.c-span.org/video/?313012-4/dotcomplicated-dot)
+  * 04:21 "I had a front row seat showing Facebook's role in shaping Elections …"
 * [2019/11/14 Facebook's "Gold Circle" sponsership - the highest level - of The Federalist Society’s gala dinner honoring Supreme Court Justice Brett
   * [Joel Kaplan, Facebook's VP of Global Affairs, sat behind Kavanaugh during K's confirmation testimony](https://twitter.com/blkkaboom/status/1195007290379816962/)    
   * 2019/11/17 Ad campaign condemns Facebook's sponsorship of Federalist Society dinner honoring Brett Kavanaugh](https://www.salon.com/2019/11/17/ad-campaign-condemns-facebooks-sponsorship-of-federalist-society-dinner-honoring-brett-kavanaugh_partner/)    
@@ -96,6 +98,16 @@ Longer podcasts or videos with interesting people
 * [2019/10/19 Zuck met with Trump](https://www.nbcnews.com/politics/donald-trump/trump-mark-zuckerberg-hold-surprise-white-house-meeting-n1056721)   
 * [2019/10/18 Zuckerberg’s speech draws ire from 2020 candidates, civil rights advocates](https://www.washingtonpost.com/technology/2019/10/18/zuckerbergs-speech-draws-ire-candidates-civil-rights-advocates/)
 * [2018/10/08 Zuckerberg: The Recode interview](https://www.vox.com/2018/7/18/17575156/mark-zuckerberg-interview-facebook-recode-kara-swisher)    
+  * 07:00 What took you so long to identify Russian attacks on the 2016 election?
+  * 08:00 She pushes. Zuck defaults to "too focused on connecting people" to notice the Russians
+  * 09:51 "Some people feel you (Facebook) are a nation state"
+  * 10:56 Facebook should not be fact-checking
+  * 17:59 Give people a voice, even if it is a hoax
+  * 21:00 "Can I ask a specific about Myanmar?. How did you feel about those killings and the blame that people put on Facebook? Do you feel responsible for those deaths?"
+  * 34:50 Facebook core principals: "Giving people a voice on the one hand and keeping the community and people safe on the other hand.
+    And our bias tends to be to wanna give people a voice and express a wide range of opinions"
+  * 36:20 "I am very out-spoken on immigration reform."
+  * 40:55 "Have you given them (the Mueller investigation) full activity, the Russians, on your platform? Have you given the investigation full access to that data?"
 * [2018/04/10 Facebook CEO Mark Zuckerberg Hearing on Data Privacy and Protection](https://www.c-span.org/video/?443543-1/facebook-ceo-mark-zuckerberg-testifies-data-protection)    
 * [2010/06/10 D8: Facebook CEO Mark Zuckerberg Full-Length Video](https://www.wsj.com/video/d8-facebook-ceo-mark-zuckerberg-full-length-video/29CC1557-56A9-4484-90B4-539E282F6F9A.html)    
 * [Facebook is Evil](https://twitter.com/arapaho415/status/1191014924912218113)    
