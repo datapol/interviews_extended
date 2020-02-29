@@ -26,6 +26,17 @@ Longer podcasts or videos with interesting people
 ## Current People
 
 ### Warren
+* [2020/02/26 CNN Town Hall CLIPS](https://www.cnn.com/politics/live-news/2020-democratic-town-hall-south-carolina-wednesday/index.html)    
+* [2020/02/25 Democratic Debate from South Carolina](https://www.uspresidentialelectionnews.com/2020/02/full-video-cbs-news-democratic-debate-from-south-carolina-feb-25/)    
+  * 1:17:00 EW "Mayor Bloomberg is the riskiest candidate standing on this stage"
+  * 1:18:00 EW "Who funded Lindsey Graham's re-election campaign"
+  * 1:18:30 EW "He dumped $12 million dollars into the 2016 election against a woman challenger"
+  * 1:20:00 MB "Sideshows"
+  * 1:22:03 EW "Her own words"
+  * 1:24:00 EW "A release of all people"
+  * 1:43:00 EW "Get rid of the fillibuster"
+  * 1:52:00 EW Secretary of Education and "public dollars should stay in public schools"
+* [2020/02/18 Democratic Debate from Las Vegas](https://www.uspresidentialelectionnews.com/2020/02/full-video-cnn-nevada-town-hall-with-sanders-buttigieg-and-klobuchar-feb-18/)    
 * [2019/12/31 Warren's New Year's Eve Speech in Boston](https://www.c-span.org/video/?467635-1/elizabeth-warren-years-eve-speech-boston)        
 * [2019/12/12 Warren's Economic Speech in NH](https://www.c-span.org/video/?467285-1/senator-elizabeth-warren-campaigns-hampshire)    
   * Wages barely budged
