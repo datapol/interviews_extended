@@ -3,6 +3,7 @@
 Longer podcasts or videos with interesting people
 
 * **Current**:
+  * [**The 2019 Coronavirus**](#the-new-coronvirus)
   * [**Impeachment Hearings**](#impeachment-hearings)
   * [**Elizabeth Warren**](#warren)    
   * [**Facebook**](#mark-zuckerberg)
@@ -12,6 +13,9 @@ Longer podcasts or videos with interesting people
     * Is headed to the Senate and has a 3% chance of being enacted
     * [**Strangulation**](/doc/misogyny_logic/README.md) is not a crime in many states.
     * Call your Senators. Ask them to approve VAWA
+
+## The new Coronavirus
+* [**2020/02/27 Sen Burr (NC-R) knew](https://www.npr.org/2020/03/19/818192535/burr-recording-sparks-questions-about-private-comments-on-covid-19)    
 
 ## Impeachment Hearings
 * [**2019/11/15 Former Ukraine Ambassador Marie Yovanovitch**](https://www.c-span.org/video/?466135-1/impeachment-hearing-ukraine-ambassador-marie-yovanovitch)
@@ -26,6 +30,7 @@ Longer podcasts or videos with interesting people
 ## Current People
 
 ### Warren
+* [2020/03/12 Warren on Mad Money talking about COVID-19](https://www.cnbc.com/video/2020/03/12/elizabeth-warren-talks-grassroots-plan-to-address-coronavirus-crisis.html)
 * [2020/03/06 Rachel 1-on-1 w/Warren](https://www.youtube.com/watch?v=gmiaNwnSw68)    
 * [2020/03/03 East Los Angeles](https://www.youtube.com/watch?v=fu1ZHol5sOs)
 * [2020/03/03 On Jimmy Kimmel on Coronavirus, Bloomberg, Super Tuesday & Running Mate](https://www.youtube.com/watch?v=_CfXVlr_J-U)
@@ -129,6 +134,26 @@ Longer podcasts or videos with interesting people
 * [Facebook is Evil](https://twitter.com/arapaho415/status/1191014924912218113)    
 * [Andrew Bosworth](https://en.wikipedia.org/wiki/Andrew_Bosworth)    
 * [CES 2020/Ivanka/Bosworth](https://megaphone.link/VMP7106826463)    
+* [2013/09/11 TechCrunch](https://www.c-span.org/video/?314980-2/mark-zuckerberg-facebook)    
+  * 2:20 "Nobody wakes up in the morning saying I want to get 1/7th of the world (1 billion people) to do something"
+  * 3:22 "We want to take the next 5-10 years to understand everything"
+  * 3:26 "We want to play a role in helping people build companies and create jobs and build the knowledge economy"
+  * 3:48 Host: "So to sum it up, you want all the people"
+  * 4:11 Facebook has 1.15 billion monthly access
+  * 4:20 Facebook has 699 million daily active users
+  * 9:45 "You made this joke that we want to get everyone to use Facebook and of course we do"
+  * 11:20 Vision(Make apps that are more human by: Build, Grow, and Monetize) for apps:
+    * Enabling login (Build)
+    * Importing friends
+    * Enabling distribution out
+    * Different services
+    * Mobile app installs 
+      * 12:20 "It is a part of our business that is growing really quickly"
+      * 12:20 "A lot of developers are really starting to rely on us as the primary way the spread their apps"
+      * 12:35 "Monetize as well: A lot of developers rely on us for making payments for making money for their services"
+      * 12:40 "If we can help make it that the industry overall can build better social apps that are more human by helping them Build, Grow, and Monetize, I feel really good"
+      * 13:15 Host: "You certainly had the kill everything you eat year"
+      * 18:00 immigration reform
 
 #### News Articles
 * [2019/11/12 Facebook group in Maine advocates "Killing as many Muslims as possible"](https://www.mainernews.com/private-facebook-group-fans-flames-of-racist-hatred-in-maine/)    
